@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1014226708358",
+    "firebase_url": "https://grubbites-50b6d-default-rtdb.firebaseio.com",
+    "project_id": "grubbites-50b6d",
+    "storage_bucket": "grubbites-50b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014226708358:android:2a471cac55398b6ca3ae07",
+        "android_client_info": {
+          "package_name": "com.example.grubbites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3WvTIj3VNgs88YSXjIFVz_jZKVE1yds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
